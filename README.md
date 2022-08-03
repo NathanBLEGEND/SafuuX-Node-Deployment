@@ -17,7 +17,7 @@ If you are new to Safuu of SafuuX, see:
 - To join the Safuu Discord -- [Safuu Discord](https://discord.gg/s2FKTcpA)
 - [Bryan Legend on YouTube](https://www.youtube.com/c/BryanLegend)
 - [Bryan Legend on Twitter](https://twitter.com/BryanLegendCEO)
-- [Safuu Community Channel YouTube](https://www.youtube.com/channel/UCDYbafbp9zs70aFocLYq61Q)
+- [Safuu Community Channel on YouTube](https://www.youtube.com/channel/UCDYbafbp9zs70aFocLYq61Q)
 
 Additional Resources:
 
