@@ -15,8 +15,8 @@ If you are new to Safuu of SafuuX, see:
 - Main Safuu website -- [Safuu.com](https://www.safuu.com/)
 - Main Safuu website -- [SafuuX.com](https://www.safuux.com/)
 - To join the Safuu Discord -- [Safuu Discord](https://discord.gg/s2FKTcpA)
-- [Bryan Ledgend's on YouTube](https://www.youtube.com/c/BryanLegend)
-- [Bryan Ledgend's on Twitter](https://twitter.com/BryanLegendCEO)
+- [Bryan Ledgend on YouTube](https://www.youtube.com/c/BryanLegend)
+- [Bryan Ledgend on Twitter](https://twitter.com/BryanLegendCEO)
 - [Safuu Community Channel YouTube](https://www.youtube.com/channel/UCDYbafbp9zs70aFocLYq61Q)
 
 Additional Resources:
