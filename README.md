@@ -8,7 +8,7 @@
 [![Deploy To Azure](https://raw.githubusercontent.com/Azure/azure-quickstart-templates/master/1-CONTRIBUTION-GUIDE/images/deploytoazure.svg?sanitize=true)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2FNathanBLEGEND%2FSafuuX-Node-Deployment%2Fmain%2FSafuuXnode.json)
 [![Visualize](https://raw.githubusercontent.com/Azure/azure-quickstart-templates/master/1-CONTRIBUTION-GUIDE/images/visualizebutton.svg?sanitize=true)](http://armviz.io/#/?load=https%3A%2F%2Fraw.githubusercontent.com%2FNathanBLEGEND%2FSafuuX-Node-Deployment%2Fmain%2FSafuuXnode.json)
 
-Click on "Deploy to Azure" allows you to deploy a simple Windows 11 (Default) or Windows 2022 Server build that will allow you to run your SafuuX lite node or full node. You will need an Azure subscription setup first.
+Click on "Deploy to Azure" allows you to deploy a simple Windows 11 (Default) or Windows 2022 Server build that will allow you to run your SafuuX lite node or full node. _You will need an Azure subscription setup first._
 
 If you are new to Safuu of SafuuX, see:
 
