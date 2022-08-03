@@ -12,8 +12,8 @@ Click on "Deploy to Azure" allows you to deploy a simple Windows 11 (Default) or
 
 If you are new to Safuu of SafuuX, see:
 
-- Main Safuu website -- [Safuu.com](https://www.safuu.com/)
-- Main SafuuX website -- [SafuuX.com](https://www.safuux.com/)
+- Safuu website -- [Safuu.com](https://www.safuu.com/)
+- SafuuX website -- [SafuuX.com](https://www.safuux.com/)
 - To join the Safuu Discord -- [Safuu Discord](https://discord.gg/s2FKTcpA)
 - [Bryan Legend on YouTube](https://www.youtube.com/c/BryanLegend)
 - [Bryan Legend on Twitter](https://twitter.com/BryanLegendCEO)
