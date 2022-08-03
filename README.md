@@ -21,3 +21,6 @@ Additional Resources:
 - [The GREEK defi guru](https://www.youtube.com/c/THEGREEKDEFIGURU)
 - [Gday Crypto - Sean Clarke](https://www.youtube.com/channel/UCzXGuHqIgHVpwj8lTYuDGfQ)
 - [Conferment RM](https://www.youtube.com/c/ConfermentRM)
+
+
+![alt text](https://github.com/NathanBLEGEND/SafuuX-Node-Deployment/blob/main/sxp.jpg)
