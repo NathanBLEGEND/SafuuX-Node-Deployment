@@ -12,7 +12,7 @@ Click on "Deploy to Azure" allows you to deploy a simple Windows 11 build that w
 
 The cost will be approx. $70USD/month
 
-If you are new to Safuu of SafuuX, see:
+If you are new to Safuu of SafuuX:
 
 - Safuu website -- [Safuu.com](https://www.safuu.com/)
 - SafuuX website -- [SafuuX.com](https://www.safuux.com/)
