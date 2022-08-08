@@ -1,5 +1,5 @@
 
-# Deploy a Windows SafuuX Node in your existing Azure subscription.
+# Deploy a WINDOWS SafuuX Node (Full or Lite) in your existing Azure subscription.
 
 
 
@@ -11,7 +11,7 @@
 Click on "Deploy to Azure" allows you to deploy a simple Windows 11 build that will allow you to run your SafuuX lite node or full node. _You will need an Azure subscription setup first._
 
 
-# Deploy a Windows SafuuX Node in your existing Azure subscription.
+# Deploy a LINUX SafuuX Node (Full of Lite) in your existing Azure subscription.
 
 
 
