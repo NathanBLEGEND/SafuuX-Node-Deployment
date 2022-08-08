@@ -8,6 +8,7 @@
 
 Click on "Deploy to Azure" allows you to deploy a simple Windows 11 build that will allow you to run your SafuuX lite node or full node. _You will need an Azure subscription setup first._
 
+The Windows 11 image will cost approx. $70USD/month
 
 # Deploy a LINUX SafuuX Node (Full of Lite) in your existing Azure subscription.
 
@@ -19,7 +20,7 @@ Click on "Deploy to Azure" allows you to deploy a simple Windows 11 build that w
 
 Click on "Deploy to Azure" allows you to deploy Ubuntu Server (Linux) your SafuuX lite node or full node. _You will need an Azure subscription setup first._
 
-The cost will be approx. $70USD/month
+The Ubuntu Server image will cost approx. $70USD/month
 
 
 If you are new to Safuu of SafuuX:
