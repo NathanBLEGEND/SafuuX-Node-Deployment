@@ -15,8 +15,8 @@ The Windows 11 image will cost approx. $70USD/month
 
 
 
-[![Deploy Linux To Azure](https://raw.githubusercontent.com/Azure/azure-quickstart-templates/master/1-CONTRIBUTION-GUIDE/images/deploytoazure.svg?sanitize=true)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2FNathanBLEGEND%2FSafuuX-Node-Deployment%2Fmain%2FSafuuXnode.json)
-[![Visualize](https://raw.githubusercontent.com/Azure/azure-quickstart-templates/master/1-CONTRIBUTION-GUIDE/images/visualizebutton.svg?sanitize=true)](http://armviz.io/#/?load=https%3A%2F%2Fraw.githubusercontent.com%2FNathanBLEGEND%2FSafuuX-Node-Deployment%2Fmain%2FSafuuXnode.json)
+[![Deploy Linux To Azure](https://raw.githubusercontent.com/Azure/azure-quickstart-templates/master/1-CONTRIBUTION-GUIDE/images/deploytoazure.svg?sanitize=true)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2FNathanBLEGEND%2FSafuuX-Node-Deployment%2Fmain%2FSafuuXnodeLINUX.json)
+[![Visualize](https://raw.githubusercontent.com/Azure/azure-quickstart-templates/master/1-CONTRIBUTION-GUIDE/images/visualizebutton.svg?sanitize=true)](http://armviz.io/#/?load=https%3A%2F%2Fraw.githubusercontent.com%2FNathanBLEGEND%2FSafuuX-Node-Deployment%2Fmain%2FSafuuXnodeLINUX.json)
 
 Click on "Deploy to Azure" allows you to deploy Ubuntu Server (Linux) your SafuuX lite node or full node. _You will need an Azure subscription setup first._
 
