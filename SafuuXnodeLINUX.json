@@ -43,8 +43,7 @@
             "type": "string",
             "defaultValue": "20_04-lts-gen2",
             "allowedValues": [
-                "20_04-lts-gen2",
-                "ntg_ubuntu_22_04_daas"
+                "20_04-lts-gen2"
             ],
             "metadata": {
                 "description": "The Ubuntu version for the VM. This will pick a fully patched image of this given Ubuntu version."
