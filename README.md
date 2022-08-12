@@ -22,6 +22,8 @@ Click on "Deploy to Azure" allows you to deploy Ubuntu Server (Linux) your Safuu
 
 The Ubuntu Server image will cost approx. $70USD/month
 
+[![Docker for AWS](https://s3.amazonaws.com/cloudformation-examples/cloudformation-launch-stack.png)](https://console.aws.amazon.com/cloudformation/home?#/stacks/new?stackName=Docker&templateURL=https://docker-for-aws.s3.amazonaws.com/v1.12.0-rc3-beta1/docker_for_aws.json)
+
 
 If you are new to Safuu of SafuuX:
 
