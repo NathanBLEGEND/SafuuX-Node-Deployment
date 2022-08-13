@@ -8,7 +8,7 @@
 
 Click on "Deploy to Azure" allows you to deploy a simple Windows 11 build that will allow you to run your SafuuX lite node or full node. _You will need an Azure subscription setup first._
 
-The Windows 11 image will cost approx. $70USD/month
+The Windows 11 image will cost approx >> [Watch this video](https://youtu.be/oy5a1FsjrZA)
 
 # Deploy a LINUX SafuuX Node (Full of Lite) in your existing Azure subscription.
 
@@ -20,7 +20,7 @@ The Windows 11 image will cost approx. $70USD/month
 
 Click on "Deploy to Azure" allows you to deploy Ubuntu Server (Linux) your SafuuX lite node or full node. _You will need an Azure subscription setup first._
 
-The Ubuntu Server image will cost approx. $70USD/month
+The Ubuntu Server image will cost approx >> [Watch this video](https://youtu.be/oy5a1FsjrZA)
 
 
 # Deploy Amazon LINUX AMI SafuuX Node (Full of Lite) in your existing AWS subscription.
@@ -29,7 +29,7 @@ The Ubuntu Server image will cost approx. $70USD/month
 
 Click on "Launch Stack" allows you to deploy Amazon Linux AMI for your SafuuX lite node or full node. _You will need an AWS subscription setup first._
 
-The Amazon Linux AMI image will cost approx. $??USD/month
+The Amazon Linux AMI image will cost approx >> [Watch this video](https://youtu.be/oy5a1FsjrZA)
 
 
 # Deploy MAC OS SafuuX Node (Full of Lite) in your existing AWS subscription.
@@ -38,7 +38,7 @@ The Amazon Linux AMI image will cost approx. $??USD/month
 
 Click on "Launch Stack" allows you to deploy MAC OS for your SafuuX lite node or full node. _You will need an AWS subscription setup first._
 
-The MAC OS will cost approx. $??USD/month
+The MAC OS will cost appro >> [Watch this video](https://youtu.be/oy5a1FsjrZA)
 
 
 If you are new to Safuu of SafuuX:
