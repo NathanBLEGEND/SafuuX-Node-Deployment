@@ -25,7 +25,7 @@ The Ubuntu Server image will cost approx >> [Watch this video](https://youtu.be/
 
 # {Still testing} Deploy Amazon LINUX AMI SafuuX Node (Full of Lite) in your existing AWS subscription.
 
-[![Launch Stack](https://samdengler.github.io/cloudformation-launch-stack-button-svg/images/launch-stack.svg)](https://console.aws.amazon.com/cloudformation/home?#/stacks/new?stackName=SafuuXLinux&templateURL=https://safuuxtemplates.s3.amazonaws.com/sample.json)
+[![Launch Stack](https://samdengler.github.io/cloudformation-launch-stack-button-svg/images/launch-stack.svg)](https://console.aws.amazon.com/cloudformation/home?#/stacks/new?stackName=SafuuXLinux&templateURL=https://safuuxtemplates.s3.amazonaws.com/SafuuXnode-Linux-v1.json
 
 Click on "Launch Stack" allows you to deploy Amazon Linux AMI for your SafuuX lite node or full node. _You will need an AWS subscription setup first._
 
