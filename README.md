@@ -1,14 +1,12 @@
 # Deploy a LINUX SafuuX Node (Full of Lite) in your existing Azure subscription.
 
-
-
-
 [![Deploy Linux To Azure](https://raw.githubusercontent.com/Azure/azure-quickstart-templates/master/1-CONTRIBUTION-GUIDE/images/deploytoazure.svg?sanitize=true)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2FNathanBLEGEND%2FSafuuX-Node-Deployment%2Fmain%2FSafuuXnodeLINUX.json)
 [![Visualize](https://raw.githubusercontent.com/Azure/azure-quickstart-templates/master/1-CONTRIBUTION-GUIDE/images/visualizebutton.svg?sanitize=true)](http://armviz.io/#/?load=https%3A%2F%2Fraw.githubusercontent.com%2FNathanBLEGEND%2FSafuuX-Node-Deployment%2Fmain%2FSafuuXnodeLINUX.json)
 
 Click on "Deploy to Azure" allows you to deploy Ubuntu Server (Linux) your SafuuX lite node or full node. _You will need an Azure subscription setup first._
 
 The Ubuntu Server image will cost approx >> [Watch this video](https://youtu.be/oy5a1FsjrZA)
+
 
 
 # {Still testing} Deploy Amazon LINUX AMI SafuuX Node (Full of Lite) in your existing AWS subscription.
@@ -18,6 +16,10 @@ The Ubuntu Server image will cost approx >> [Watch this video](https://youtu.be/
 Click on "Launch Stack" allows you to deploy Amazon Linux AMI for your SafuuX lite node or full node. _You will need an AWS subscription setup first._
 
 The Amazon Linux AMI image will cost approx >> [Watch this video](https://youtu.be/oy5a1FsjrZA)
+
+
+
+
 
 
 
