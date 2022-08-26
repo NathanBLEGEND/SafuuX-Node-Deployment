@@ -20,13 +20,6 @@ Click on "Launch Stack" allows you to deploy Amazon Linux AMI for your SafuuX li
 The Amazon Linux AMI image will cost approx >> [Watch this video](https://youtu.be/oy5a1FsjrZA)
 
 
-# {Still testing} Deploy MAC OS SafuuX Node (Full of Lite) in your existing AWS subscription.
-
-[![Amazon MAC OS](https://s3.amazonaws.com/cloudformation-examples/cloudformation-launch-stack.png)](https://console.aws.amazon.com/cloudformation/home?#/stacks/new?stackName=Docker&templateURL=https://docker-for-aws.s3.amazonaws.com/v1.12.0-rc3-beta1/docker_for_aws.bad)
-
-Click on "Launch Stack" allows you to deploy MAC OS for your SafuuX lite node or full node. _You will need an AWS subscription setup first._
-
-The MAC OS will cost appro >> [Watch this video](https://youtu.be/oy5a1FsjrZA)
 
 
 If you are new to Safuu of SafuuX:
